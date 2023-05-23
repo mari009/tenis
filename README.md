@@ -1,2 +1,2 @@
-# tenis
-tenis
+# pongtwo
+Jogo pong no JavaScript
